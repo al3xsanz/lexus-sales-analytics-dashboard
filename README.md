@@ -18,20 +18,17 @@ The application transforms monthly dealership sales reports into a centralized S
 
 ## Performance Leaders
 
-![Performance Leaders](images/performance_leaders.png)
-
+![Performance Leaders](images/executive_insights.png)
 ---
 
 ## Model Detail Dashboard
 
-![Model Detail Dashboard](images/model_detail_dashboard.png)
-
+![Model Detail Dashboard](images/model_drilldown.png)
 ---
 
 ## Monthly Performance
 
-![Monthly Performance](images/monthly_performance.png)
-
+![Monthly Performance](images/monthly_sales.png)
 ---
 
 ## Sales Breakdown
@@ -85,7 +82,7 @@ The application demonstrates the complete analytics workflow—from raw CSV file
 
 ---
 
-# ⭐ Key Highlights
+# 📌 Key Highlights
 
 - End-to-end Business Intelligence workflow
 - Interactive executive dashboard
@@ -116,7 +113,7 @@ The application demonstrates the complete analytics workflow—from raw CSV file
 
 ---
 
-## 🧠 SQL Analytics
+## 📊 SQL Analytics
 
 Advanced analytics are calculated directly inside SQLite using SQL.
 
@@ -215,7 +212,7 @@ OVER (
 
 ---
 
-# 🛠 Technology Stack
+# 💾 Technology Stack
 
 | Category | Technology |
 |----------|------------|
@@ -251,7 +248,7 @@ lexus-sales-analytics-dashboard/
 
 ---
 
-# 🚀 Running Locally
+# 🗄 Running Locally
 
 ```bash
 git clone <repository-url>
@@ -271,7 +268,7 @@ python -m streamlit run app.py
 
 ---
 
-# 📈 Skills Demonstrated
+# ✅ Skills Demonstrated
 
 - Python application development
 - Modular software architecture
@@ -288,7 +285,7 @@ python -m streamlit run app.py
 
 ---
 
-# 🎯 What I Learned
+# 🗂 What I Learned
 
 Through this project I strengthened my understanding of:
 
@@ -302,7 +299,7 @@ Through this project I strengthened my understanding of:
 
 ---
 
-# 🔮 Future Improvements
+# 📝 Future Improvements
 
 - PostgreSQL migration
 - Cloud deployment
@@ -315,7 +312,7 @@ Through this project I strengthened my understanding of:
 
 ---
 
-# 👨‍💻 Author
+# ℹ️ Author
 
 ## Alejandro Sanz
 
@@ -336,5 +333,4 @@ This project was developed as a personal portfolio application for educational a
 
 The dataset is fictionalized and does **not** represent the actual sales performance, revenue, employees, customers, or internal business data of any Lexus dealership. While inspired by real-world automotive sales workflows and market trends, all data has been anonymized or generated for demonstration purposes only.
 
-
-⭐ If you found this project interesting, consider giving the repository a star!
+📍 If you found this project interesting, consider giving the repository a star!
