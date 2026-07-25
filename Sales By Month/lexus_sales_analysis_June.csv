@@ -1,0 +1,88 @@
+date,make,model,color,trim,year,stock_type,salesperson,units,revenue
+6/1/2026,Lexus,RZ 350e,Gray,Base,2026,New,Melissa Olsen,1,7530
+6/1/2026,Lexus,RZ 450e,Gray,Premium,2026,New,Miguel Bernal,1,6033
+6/1/2026,Lexus,TX 500h,Black,F-Sport,2026,New,Armando Rosales,1,1121
+6/1/2026,Lexus,RX 350h,Blue,Premium +,2026,New,Armando Rosales,1,7005
+6/3/2026,Lexus,IS 350,Red,F-Sport,2026,New,Marcus Ingram,1,6233
+6/3/2026,Lexus,TX 350,Gray,F-Sport,2026,New,Susan Vail,1,4598
+6/3/2026,Lexus,UX 300h,Gray,Base,2026,New,Marcus Ingram,1,9266
+6/4/2026,Lexus,IS 350,Gray,F-Sport,2026,New,Jim Lang,1,-118
+6/4/2026,Lexus,RZ350e,Iridium,Premium,2026,New,Mohameed Ghazi,1,5504
+6/4/2026,Lexus,GX550,Black,Luxury +,2026,New,Melissa Olsen,1,4289
+6/4/2026,Lexus,RX 450h+,White,Premium,2026,New,Michael Gafferty,1,3995
+6/4/2026,Lexus,IS 350,Gray,F-Sport,2026,New,Jim Lang,1,7082
+6/4/2026,Lexus,RX 350h,White,Premium +,2026,New,Marcus Ingram,1,4789
+6/6/2026,Lexus,NX 350h,Gray,Premium,2026,New,Marcus Ingram,1,-427
+6/6/2026,Lexus,GX550,Green,Premium +,2026,New,Melissa Olsen,1,3865
+6/8/2026,Lexus,RZ 450e,White,Base,2026,New,Susan Vail,1,2300
+6/8/2026,Lexus,NX 350h,Black,Premium,2026,New,Michael Gafferty,1,980
+6/8/2026,Lexus,TX 350,Silver,Premium,2026,New,Jim Lang,1,7227
+6/8/2026,Lexus,GX550,Silver,Luxury +,2026,New,Marcus Ingram,1,10827
+6/14/2026,Lexus,TX 350,Gray,Premium,2026,New,Gregory Jones,1,10207
+6/14/2026,Lexus,LX 700h,Silver,Luxury,2026,New,Armando Rosales,1,5946
+6/15/2026,Lexus,RX 350h,White,Premium +,2026,New,Ricardo Fuentes,1,3990
+6/15/2026,Lexus,UX 300h,White,Premium,2026,New,Armando Rosales,1,4784
+6/16/2026,Lexus,NX 350h,White,Premium,2026,New,Gregory Jones,1,5185
+6/16/2026,Lexus,RX 350h,Green,Premium +,2026,New,Nura Al-Fajiri,1,1738
+6/17/2026,Lexus,RX 350h,Gray,Premium,2026,New,Gregory Jones,1,6074
+6/17/2026,Lexus,NX 350h,Copper,Premium,2026,New,Jim Lang,1,-163
+6/17/2026,Lexus,TX 350,Black,Premium,2026,New,Ricardo Fuentes,1,5933
+6/17/2026,Lexus,RZ 350e,Iridium,Base,2026,New,Susan Vail,1,-67
+6/17/2026,Lexus,RX 350,White,Luxury,2026,New,Jim Lang,1,10505
+6/18/2026,Lexus,RX 350h,White,Luxury,2026,New,Susan Vail,1,5699
+6/18/2026,Lexus,RX 350h,Gray,Premium +,2026,New,Ricardo Fuentes,1,-350
+6/19/2026,Lexus,UX 300h,Iridium,Base,2026,New,Armando Rosales,1,10296
+6/19/2026,Lexus,TX 500h,White,F-Sport,2026,New,Marcus Ingram,1,-493
+6/19/2026,Lexus,RX 350,Gray,Premium +,2026,New,Nura Al-Fajiri,1,11681
+6/19/2026,Lexus,RX 350,White,Premium +,2026,New,Ricardo Fuentes,1,8348
+6/20/2026,Lexus,RX 350h,Copper,Premium +,2026,New,Mohameed Ghazi,1,6357
+6/20/2026,Lexus,RX 350h,Black,F-Sport,2026,New,Nura Al-Fajiri,1,4603
+6/20/2026,Lexus,RX 350,Red,Premium +,2026,New,Michael Gafferty,1,6969
+6/20/2026,Lexus,IS 350,Red,F-Sport,2026,New,Gregory Jones,1,1707
+6/21/2026,Lexus,RX 450h+,Copper,Luxury,2026,New,Michael Gafferty,1,11441
+6/21/2026,Lexus,NX 450h+,Black,F-Sport,2026,New,Michael Gafferty,1,-380
+6/21/2026,Lexus,UX 300h,Green,Base,2026,New,Jim Lang,1,2988
+6/21/2026,Lexus,NX 350h,Silver,Luxury,2026,New,Nura Al-Fajiri,1,1179
+6/22/2026,Lexus,RX 450h+,Red,Luxury,2026,New,Mohameed Ghazi,1,4056
+6/22/2026,Lexus,NX 450h+,Gray,Luxury,2026,New,Susan Vail,1,-147
+6/22/2026,Lexus,NX 350h,Black,Premium,2026,New,Michael Gafferty,1,6722
+6/22/2026,Lexus,NX 350h,Silver,Premium,2026,New,Gregory Jones,1,1279
+6/23/2026,Lexus,NX 450h+,White,Luxury,2026,New,Susan Vail,1,2035
+6/23/2026,Lexus,RX 350h,Iridium,Premium +,2026,New,Marcus Ingram,1,10981
+6/24/2026,Lexus,RX 350h,Iridium,Premium +,2026,New,Susan Vail,1,9136
+6/24/2026,Lexus,TX 350,White,Premium,2026,New,Nura Al-Fajiri,1,612
+6/24/2026,Lexus,NX 350h,Silver,Luxury,2026,New,Raul Zapata,1,5836
+6/24/2026,Lexus,RZ 350e,White,Premium,2026,New,Armando Rosales,1,-204
+6/24/2026,Lexus,NX 350h,Red,Luxury,2026,New,Marcus Ingram,1,3825
+6/24/2026,Lexus,TX 500h,Black,F-Sport,2026,New,Gregory Jones,1,4789
+6/25/2026,Lexus,NX 350h,White,F-Sport,2026,New,Nura Al-Fajiri,1,4038
+6/25/2026,Lexus,UX 300h,Green,Base,2026,New,Jim Lang,1,6980
+6/25/2026,Lexus,RX 450h+,White,Luxury,2026,New,Ricardo Fuentes,1,3422
+6/25/2026,Lexus,NX 450h+,Silver,Luxury,2026,New,Gregory Jones,1,6097
+6/25/2026,Lexus,RX 350h,Gray,Premium +,2026,New,Michael Gafferty,1,-445
+6/25/2026,Lexus,TX 350,White,Premium,2026,New,Nura Al-Fajiri,1,3116
+6/25/2026,Lexus,LX 700h,Gray,F-Sport,2026,New,Ricardo Fuentes,1,2625
+6/25/2026,Lexus,GX550,Gray,Premium +,2026,New,Mohameed Ghazi,1,2109
+6/26/2026,Lexus,RX 350,Red,Premium +,2026,New,Nura Al-Fajiri,1,3595
+6/26/2026,Lexus,NX 450h+,White,Luxury,2026,New,Gregory Jones,1,2400
+6/26/2026,Lexus,NX 350h,Gray,Luxury,2026,New,Marcus Ingram,1,2973
+6/26/2026,Lexus,IS 350,White,F-Sport,2026,New,Jason Kraft,1,5083
+6/26/2026,Lexus,IS 350,Gray,F-Sport,2026,New,Jim Lang,1,2767
+6/27/2026,Lexus,RX 350h,White,Luxury,2026,New,Susan Vail,1,3636
+6/28/2026,Lexus,IS 350,White,F-Sport,2026,New,Marcus Ingram,1,1769
+6/29/2026,Lexus,NX 350h,Gray,Premium,2026,New,Marcus Ingram,1,7361
+6/29/2026,Lexus,IS 350,Gray,F-Sport,2026,New,Michael Gafferty,1,6972
+6/29/2026,Lexus,IS 350,Red,F-Sport,2026,New,Melissa Olsen,1,6270
+6/30/2026,Lexus,RX 350h,Green,Luxury,2026,New,Jason Kraft,1,4771
+6/30/2026,Lexus,GX 550,Gray,Premium +,2026,New,Mohameed Ghazi,1,-256
+6/3/2026,Lexus,IS 350,Red,F-Sport,2026,New,Marcus Ingram,1,8171
+6/19/2026,Lexus,RX 350,White,Premium +,2026,New,Ricardo Fuentes,1,-79
+6/4/2026,Lexus,RX 450h+,White,Premium,2026,New,Michael Gafferty,1,-254
+6/1/2026,Lexus,RZ 350e,Gray,Base,2026,New,Melissa Olsen,1,3837
+6/22/2026,Lexus,NX 450h+,Gray,Luxury,2026,New,Susan Vail,1,6506
+6/22/2026,Lexus,NX 350h,Silver,Premium,2026,New,Gregory Jones,1,4568
+6/26/2026,Lexus,NX 450h+,White,Luxury,2026,New,Gregory Jones,1,5473
+6/24/2026,Lexus,RZ 350e,White,Premium,2026,New,Armando Rosales,1,9961
+6/24/2026,Lexus,RX 350h,Iridium,Premium +,2026,New,Susan Vail,1,3499
+6/17/2026,Lexus,RZ 350e,Iridium,Base,2026,New,Susan Vail,1,7626
+6/26/2026,Lexus,IS 350,White,F-Sport,2026,New,Jason Kraft,1,4003
