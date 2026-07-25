@@ -330,5 +330,11 @@ Mathematics student at **California State University San Marcos** interested in:
 Feel free to connect or explore my other projects on GitHub.
 
 ---
+## Disclaimer
+
+This project was developed as a personal portfolio application for educational and demonstration purposes.
+
+The dataset is fictionalized and does **not** represent the actual sales performance, revenue, employees, customers, or internal business data of any Lexus dealership. While inspired by real-world automotive sales workflows and market trends, all data has been anonymized or generated for demonstration purposes only.
+
 
 ⭐ If you found this project interesting, consider giving the repository a star!
